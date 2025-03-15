@@ -13,6 +13,7 @@ Amigo Secreto do Rubão.
 
 📷 Captura de Tela
 
+[descrição da imagem]![Sorteio](https://github.com/user-attachments/assets/ef23d93a-795a-4921-b793-ec6de4769e35)
 
 
 
